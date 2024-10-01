@@ -1,0 +1,16 @@
+{
+  "name": "@syyu/components",
+  "version": "0.0.0",
+  "description": "react component system",
+  "keywords": [
+    "component",
+    "react",
+    "design system",
+    "component system"
+  ],
+  "main": "index.js",
+  "repository": "git@github.com:brewcold/components.git",
+  "author": "brewcold <seung.yoon.yu@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.5.0"
+}
